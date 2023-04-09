@@ -1,0 +1,51 @@
+,Commune,Department,Region,"Population, 2006","Population, 2013","Population, 2019",Rank 2019,latitude,longitude
+0,Paris,Paris,Île-de-France,2181371,2229621.0,2165423,1,48.8534951,2.3483915
+1,Marseille,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,839043,855393.0,870731,2,43.2961743,5.3699525
+2,Lyon,Lyon Metropolis,Auvergne-Rhône-Alpes,472305,500715.0,522969,3,45.7578137,4.8320114
+3,Toulouse,Haute-Garonne,Occitanie,437715,458298.0,493465,4,43.6044622,1.4442469
+4,Nice,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,347060,342295.0,342669,5,43.7009358,7.2683912
+5,Nantes,Loire-Atlantique,Pays de la Loire,282853,292718.0,318808,6,47.2186371,-1.5541362
+6,Montpellier,Hérault,Occitanie,251634,272084.0,295542,7,43.6112422,3.8767337
+7,Strasbourg,Bas-Rhin,Grand Est,272975,275718.0,287228,8,48.584614,7.7507127
+8,Bordeaux,Gironde,Nouvelle-Aquitaine,232260,243626.0,260958,9,44.841225,-0.5800364
+9,Lille,Nord,Hauts-de-France,226014,231491.0,234475,10,50.6365654,3.0635282
+10,Rennes,Ille-et-Vilaine,Brittany,209613,211373.0,220488,11,48.1113387,-1.6800198
+11,Reims,Marne,Grand Est,183837,182592.0,181194,12,49.2577886,4.031926
+12,Toulon,Var,Provence-Alpes-Côte d'Azur,167816,163760.0,178745,13,43.1257311,5.9304919
+13,Saint-Étienne,Loire,Auvergne-Rhône-Alpes,177480,172023.0,173821,14,45.4401467,4.3873058
+14,Le Havre,Seine-Maritime,Normandy,182580,172074.0,168290,15,49.4938975,0.1079732
+15,Grenoble,Isère,Auvergne-Rhône-Alpes,156107,160215.0,158198,16,45.1875602,5.7357819
+16,Dijon,Côte-d'Or,Bourgogne-Franche-Comté,151504,153003.0,158002,17,47.3215806,5.0414701
+17,Angers,Maine-et-Loire,Pays de la Loire,152337,150125.0,155850,18,47.4739884,-0.5515588
+18,Saint-Denis,Réunion,Réunion,138314,142442.0,153810,19,48.935773,2.3580232
+19,Villeurbanne,Lyon Metropolis,Auvergne-Rhône-Alpes,136473,147192.0,152212,20,45.7661443,4.8796196
+20,Nîmes,Gard,Occitanie,144092,150564.0,148561,21,43.8374249,4.3600687
+21,Clermont-Ferrand,Puy-de-Dôme,Auvergne-Rhône-Alpes,138992,141463.0,147865,22,45.7774551,3.0819427
+22,Aix-en-Provence,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,142534,141545.0,145133,23,43.5298424,5.4474738
+23,Le Mans,Sarthe,Pays de la Loire,144016,144244.0,143847,24,48.0073849,0.1967849
+24,Brest,Finistère,Brittany,144548,139386.0,139926,25,48.3905283,-4.4860088
+25,Tours,Indre-et-Loire,Centre-Val de Loire,136942,134803.0,137087,26,47.3900474,0.6889268
+26,Amiens,Somme,Hauts-de-France,136105,132699.0,134706,27,49.8941708,2.2956951
+27,Limoges,Haute-Vienne,Nouvelle-Aquitaine,136539,135098.0,130876,28,45.8354243,1.2644847
+28,Annecy,Haute-Savoie,Auvergne-Rhône-Alpes,51023,52029.0,130721,29,45.8992348,6.1288847
+29,Boulogne-Billancourt,Hauts-de-Seine,Île-de-France,110251,116794.0,121583,30,48.8356649,2.240206
+30,Perpignan,Pyrénées-Orientales,Occitanie,115326,120959.0,119344,31,42.6985304,2.8953121
+31,Metz,Moselle,Grand Est,124435,118634.0,118489,32,49.1196964,6.1763552
+32,Besançon,Doubs,Bourgogne-Franche-Comté,117080,116952.0,117912,33,47.2380222,6.0243622
+33,Orléans,Loiret,Centre-Val de Loire,113130,114375.0,116269,34,47.9027336,1.9086066
+34,Saint-Denis,Seine-Saint-Denis,Île-de-France,97875,109343.0,112852,35,48.935773,2.3580232
+35,Rouen,Seine-Maritime,Normandy,107904,110755.0,112321,36,49.4404591,1.0939658
+36,Montreuil,Seine-Saint-Denis,Île-de-France,101587,104139.0,111240,37,50.4638918,1.7631125
+37,Argenteuil,Val-d'Oise,Île-de-France,102683,106817.0,111038,38,48.9479069,2.2481797
+38,Mulhouse,Haut-Rhin,Grand Est,110514,112063.0,108312,39,47.7467233,7.3389937
+39,Caen,Calvados,Normandy,110399,107229.0,106230,40,49.1813403,-0.3635615
+40,Nancy,Meurthe-et-Moselle,Grand Est,105468,104072.0,105058,41,48.6937223,6.1834097
+41,Saint-Paul,Réunion,Réunion,99291,104332.0,103208,42,44.9497487,-93.0931028
+42,Roubaix,Nord,Hauts-de-France,97952,95866.0,98828,43,50.6915893,3.1741734
+43,Tourcoing,Nord,Hauts-de-France,92357,93974.0,98656,44,50.7235038,3.1605714
+44,Nanterre,Hauts-de-Seine,Île-de-France,88316,92227.0,96277,45,48.8924273,2.2071267
+45,Vitry-sur-Seine,Val-de-Marne,Île-de-France,82902,90075.0,95510,46,48.7876,2.39164
+46,Créteil,Val-de-Marne,Île-de-France,88939,89989.0,93246,47,48.7771486,2.4530731
+47,Avignon,Vaucluse,Provence-Alpes-Côte d'Azur,92454,90305.0,91143,48,43.9492493,4.8059012
+48,Poitiers,Vienne,Nouvelle-Aquitaine,88776,87427.0,89212,49,46.5802596,0.340196
+49,Aubervilliers,Seine-Saint-Denis,Île-de-France,73506,77452.0,88948,50,48.9146078,2.3821895
